@@ -1,10 +1,10 @@
 .metadata/
 SoccerPitchPackage
 UpdatePackage
-ttc14-specification/.project
-ttc14-specification/.temp/*
-ttc14-specification/*.ldb
+ttc14_specification/.project
+ttc14_specification/.temp/*
+ttc14_specification/*.ldb
 SoccerStrategy/.classpath
 SoccerStrategy/bin/
 SoccerStrategy/gen/
-SoccerStrategy/SoccerStrategy*
+SoccerStrategy/model/SoccerStrategy*
